@@ -1,2 +1,2 @@
-# livro-receitas
-Estudo git e git hub
+# projetos
+projetos em estudo
